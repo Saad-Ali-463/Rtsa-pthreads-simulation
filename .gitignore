@@ -1,0 +1,18 @@
+
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+
+# Binaries
+/build/
+/dist/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
